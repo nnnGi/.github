@@ -1,4 +1,4 @@
-Hi, I am \_\_nnn\_\_ (Pronounced n^3 as in the File Manager)  
+Hi, I am \_\_nnn\_\_ (n^3)  
 "Bow ties are cool"  
 
 🇸🇬 I'm a person  
