@@ -1,4 +1,4 @@
-Hi, I am \_\_nnn\_\_ (n^3)  
+Hi, I'm \_\_nnn\_\_   
 "Bow ties are cool"  
 
 🇸🇬 I'm a person  
