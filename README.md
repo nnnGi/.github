@@ -3,7 +3,7 @@ Hi, I am \_\_nnn\_\_ (n^3)
 
 🇸🇬 I'm a person  
 📚 I study stuff  
-💾 I code in mainly Web Dev, Python and Apple Shortcuts (All as a hobby)  
+💾 I code in mainly Web Dev, Python and C++
 
 I kinda suck at coding  
 ;)
