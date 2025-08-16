@@ -1,5 +1,5 @@
-Hi, I'm \_\_nnn\_\_   
-"Bow ties are cool"  
+Hi 👋,  
+I would say that "Bow ties are cool"  
 
 🇸🇬 I'm a person  
 📚 I study stuff  
