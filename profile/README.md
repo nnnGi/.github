@@ -1,6 +1,6 @@
 Hi 👋,  
 
-🇸🇬 "Bow Ties are cool" (If you know you know)  
+🇸🇬 (GMT+08) I've heard that "Bow Ties are cool"  
 📚 I study stuff  
 💾 I code mainly Java, Python and C++  
 (I do Web Dev too)  
