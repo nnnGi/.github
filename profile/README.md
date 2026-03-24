@@ -5,4 +5,4 @@ Hi 👋,
 💾 I code mainly Java, Python and C++  
 🇻🇦 Vivat Christus Rex!  
 
-I suck at coding ;)  
+I kinda suck at coding ;)  
