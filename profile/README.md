@@ -1,8 +1,8 @@
 Hi 👋,  
 
-🇸🇬 (UTC+08) How's life?  
-📚 I study interesting stuff  
+🇸🇬 (UTC+08)  
+📚 I like interesting stuff  
 💾 I code mainly Java, Python and C++  
 🇻🇦 Vivat Christus Rex!  
 
-I kinda suck at coding ;)  
+My work probably sucks so like feel free to criticise
